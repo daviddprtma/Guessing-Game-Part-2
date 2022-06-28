@@ -20,10 +20,10 @@ The alphabet being randomly generated is printed in the terminal output (don’t
 To successfully customize the game, you will need to change two key areas:
 
 To generate a lowercase alphabet you will require a different external crate (dependency). Find out how to make use of the recommended external crate with these two resources:
-fastrand - Rust
-fastrand - crates.io
+fastrand - Rust https://docs.rs/fastrand/latest/fastrand/
+fastrand - crates.io https://crates.io/crates/fastrand 
 You will also need to modify your error handling code (remember .expect?) - you are now handling characters instead of numbers. See the items below to learn more about the different data types in Rust:
-The Rust Programming Language - Data Types
+The Rust Programming Language - Data Types https://doc.rust-lang.org/book/ch03-02-data-types.html 
 
 ## Need to collab work with me? For sure Iam an open person and friendly too so why not to collab together and show to the world that we can do this right? So if you want to collab with me 
 just DM me in Instagram @daviddprtma :)
